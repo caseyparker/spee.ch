@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/caseyparker/spee.ch.svg?branch=master)](https://travis-ci.org/caseyparker/spee.ch) [![npm version](https://badge.fury.io/js/magic-number.svg)](http://npmjs.org/package/magic-number) [![Development Dependency Status](https://david-dm.org/caseyparker/spee.ch/dev-status.png?theme=shields.io)](https://david-dm.org/caseyparker/spee.ch#info=devDependencies) 
+
 # spee.ch
 spee.ch is a single-serving site that reads and publishes images to and from the [LBRY](https://lbry.io/) blockchain.
 
